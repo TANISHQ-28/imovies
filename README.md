@@ -9,12 +9,6 @@ I picked this project because everyone already knows how booking a movie ticket
 works, so I could focus on learning how the frontend, backend and database fit
 together instead of figuring out what the app should do.
 
-## Screenshots
-
-![Home page](screenshots/home.png)
-![Seat selection](screenshots/seats.png)
-![Admin page](screenshots/admin.png)
-
 ## What it does
 
 - Sign up and log in (passwords are hashed, login uses JWT tokens)
